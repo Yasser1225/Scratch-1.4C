@@ -1,6 +1,8 @@
 # Scratch-1.4C
 Scratch 1.4C is a DOS-Based Engine for Turbowarp only.
 
+With 2 GB RAM, Sound Blaster PCI 128 and 600x480 Display with 50 FPS!
+
 To get started, go to and type any of these commands:
 
 # shell.print()
