@@ -22,7 +22,7 @@ Type in a data HTTPS URL (URL that has a file.) and it will download the file as
 That's it! No help command, just code!
 :)
 
-# Scratch 1.4C Squeak Edition
-This is for old operating systems.
-This is the orginal concept of Scratch 1.4C, to bulid a scratch 1.4 environment inside of a scratch 1.4 project.
-The Squeak Edition is it's own repository due to it using a different licence.
+# Scratch 1.4C Java Edition
+This is the Java Edition.
+This is the orginal concept of Scratch 1.4C, to bulid a scratch 1.4 environment that uses text to run code blocks like ScratchC but it is kept simple.
+The Java Edition is it's own repository due to it using a different licence.
