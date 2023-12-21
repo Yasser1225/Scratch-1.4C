@@ -25,4 +25,4 @@ That's it! No help command, just code!
 # Scratch 1.4C Squeak Edition
 This is for old operating systems.
 This is the orginal concept of Scratch 1.4C, to bulid a scratch 1.4 environment inside of a scratch 1.4 project.
-Also this has a licence that takes ur freedom from putting this in ur scratch 1.4 projects.
+The Squeak Edition is it's own repository due to it using a different licence.
